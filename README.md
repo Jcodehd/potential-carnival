@@ -1,2 +1,2 @@
-# potential-carnival
-Machine Learning
+# Machine Learning
+Linear Regression
